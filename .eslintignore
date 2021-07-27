@@ -1,0 +1,8 @@
+build/*.js
+src/assets
+src/styles
+public
+dist
+*.config.js
+*.d.ts
+.DS_Store
